@@ -13,6 +13,7 @@
 5, `ctrl + shift + o`: organize imports. 
 
 6, `F3` opens the declaration. 
+For example, I like to see the definition for `TrieNode`, `F3` gives great help.  
 
 7.1, generate constructors by fields: 
 `Shift + Alt + S` follows `O`.  
