@@ -8,13 +8,18 @@
 3, jump to line mth: `ctrl + L`.  
    will pop up windows to key in line number.   
    
-4, `ctrl + shift + L`brings up the hotkey helper.  
+4, **Big Boss**: `ctrl + shift + L`brings up the hotkey helper.  
 
 5, `ctrl + shift + o`: organize imports. 
 
 6, `F3` opens the declaration. 
 
-7, generate constructors by field or super class: 
-`Shift + Alt + S` follows `o`.  
+7.1, generate constructors by fields: 
+`Shift + Alt + S` follows `O`.  
+BTW, if we like to generate constructors by super class: 
+`Shift + ALT + S` follows `C`.  
+7.2, generate setter/getter by fields: 
+`Shift + ALT + S` follows `R`.  
+
 
 8 
