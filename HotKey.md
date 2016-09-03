@@ -13,3 +13,8 @@
 5, `ctrl + shift + o`: organize imports. 
 
 6, `F3` opens the declaration. 
+
+7, generate constructors by field or super class: 
+`Shift + Alt + S` follows `o`.  
+
+8 
