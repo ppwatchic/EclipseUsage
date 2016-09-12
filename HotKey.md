@@ -3,12 +3,12 @@
 1.1 `Ctrl + Alt + DOWN`: copy one line.   
 1.2 `alt + DOWN`: move copied line downside.  
 
-2. delete line: `ctrl + D`.   
+2. delete line: `Ctrl + D`.   
 
-3. jump to line mth: `ctrl + L`.  
+3. jump to line mth: `Ctrl + L`.  
    will pop up windows to key in line number.   
    
-4. **Big Boss**: `ctrl + shift + L`brings up the hotkey helper.  
+4. **Big Boss**: `Ctrl + Shift + L`brings up the hotkey helper.  
 
 5. `ctrl + shift + o`: organize imports. 
 
@@ -23,7 +23,7 @@ BTW, if we like to generate constructors by super class:
 7.2 generate setter/getter by fields: 
 `Shift + ALT + S` follows `R`.  
 
-8. naviage in editor  
+8. navigate in editor  
 `HOME/END` moves to beginning/end of a line when cursor sitted.   
 `Ctrl + HOME/END`moves to begnning/end of source file. 
 
