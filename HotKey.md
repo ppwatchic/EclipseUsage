@@ -24,7 +24,7 @@ BTW, if we like to generate constructors by super class:
 `Shift + ALT + S` follows `R`.  
 
 8. navigate in editor  
-`HOME/END` moves to beginning/end of a line when cursor sitted.   
+`HOME/END` moves to beginning/end of a line where cursor sitted.   
 `Ctrl + HOME/END`moves to begnning/end of source file. 
 
 
