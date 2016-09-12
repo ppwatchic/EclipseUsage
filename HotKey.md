@@ -16,11 +16,11 @@
 For example, I like to see the definition for `TrieNode`, `F3` gives great help.  
 
 7. code auto-completion    
-* generate constructors by fields: 
+7.1 generate constructors by fields: 
 `Shift + Alt + S` follows `O`.  
 BTW, if we like to generate constructors by super class: 
 `Shift + ALT + S` follows `C`.    
-* generate setter/getter by fields: 
+7.2 generate setter/getter by fields: 
 `Shift + ALT + S` follows `R`.  
 
 8. naviage in editor  
