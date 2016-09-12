@@ -22,7 +22,6 @@ BTW, if we like to generate constructors by super class:
 7.2. generate setter/getter by fields: 
 `Shift + ALT + S` follows `R`.  
 
-
 8. naviage in editor  
 `HOME/END` moves to beginning/end of a line when cursor sitted. 
 `Ctrl + HOME/END`moves to begnning/end of source file. 
