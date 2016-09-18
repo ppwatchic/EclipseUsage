@@ -43,4 +43,5 @@ Move to begnning/end of source file: `Ctrl + Home/End`.
 ## Version Control 
 1. To stage changes, use `Ctrl + Shift + #`.
 
-
+## Reference
+1. [Best Eclipse Shortcut Doc](https://www.shortcutworld.com/en/win/Eclipse.html).
