@@ -32,6 +32,8 @@ Move to begnning/end of source file: `Ctrl + Home/End`.
 
 9.  Format the source code: `Ctrl + Shift + F`.
 
+10. Open source: `Ctrl + Shift + R`.
+
 ## Debug/Run
 1. Run in debug mode: `F11`.
 2. Run: `Ctrl + F11`.
