@@ -45,5 +45,8 @@ Move to begnning/end of source file: `Ctrl + Home/End`.
 ## Version Control 
 1. To stage changes, use `Ctrl + Shift + #`.
 
+## Maven
+1. To update project after any setting has been changed: `Alt + F5  `.
+
 ## Reference
 1. [Best Eclipse Shortcut Doc](https://www.shortcutworld.com/en/win/Eclipse.html).
